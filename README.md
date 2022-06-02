@@ -1,12 +1,12 @@
 # 15-Puzzle
-15 puzzle game - school project
+15 puzzle game
 
 ![look](img/look.png)
 
 
 ##  Overall info
 
-Popular puzzles 15
+Popular puzzles 15 game
 
 The aim is to put the pieces together in such a way that they form a complete picture
 
