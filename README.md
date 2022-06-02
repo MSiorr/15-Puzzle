@@ -23,4 +23,5 @@ The aim is to put the pieces together in such a way that they form a complete pi
 - Animation of moving the puzzle
 - Leaderboard
 - Movement counter
-- Sisplaying the puzzle number
+- Displaying the puzzle number
+- Timer
