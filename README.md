@@ -1,7 +1,7 @@
 # 15-Puzzle
 15 puzzle game
 
-![look](img/look.png)
+![obraz](https://user-images.githubusercontent.com/49323088/171881899-55ceceff-e0a5-400c-a27e-972c4d13dd88.png)
 
 ### Test it now 
 **👉 https://msiorr.github.io/Projects/15-Puzzle/ 👈**
